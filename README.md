@@ -1,6 +1,6 @@
 # Hostal Lucerito 🏨
 
-Sitio web oficial del **Hostal Lucerito**, un acogedor hospedaje ubicado en la región de Yungas, Bolivia.
+Sitio web oficial del **Hostal Lucerito**, un acogedor hospedaje ubicado en la región de Yungas, Bolivia. Este proyecto contiene dos versiones: la versión alpha (PHP) y la versión v2 (Mobirise).
 
 ## 📋 Descripción
 
@@ -69,6 +69,7 @@ http://localhost/beta/
 
 ### Frontend
 - **Bootstrap 5.1** - Framework CSS
+- **Mobirise** - Website Builder (v2)
 - **HTML5 / CSS3**
 - **JavaScript**
 
@@ -86,8 +87,8 @@ Sistema de login integrado:
 
 ## 📧 Contacto
 
-**Desarrollado por:** Yersson Fernandez Flores
-**Correo:** yersson_9876@hotmail.com
+- **Desarrollado por:** Yersson Fernandez
+- **Correo:** yersson_9876@hotmail.com
 
 Para reportes de bugs o sugerencias, abre un issue en el repositorio.
 
@@ -96,3 +97,5 @@ Para reportes de bugs o sugerencias, abre un issue en el repositorio.
 Este proyecto es propiedad de Hostal Lucerito. Todos los derechos reservados.
 
 ---
+
+**Nota:** La carpeta `v2/` contiene la versión moderna del sitio (Mobirise) y se gestiona de forma independiente.
